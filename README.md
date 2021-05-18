@@ -1,0 +1,1 @@
+# vaccination-appointment-checker
