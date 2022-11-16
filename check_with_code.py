@@ -2,7 +2,7 @@ import ssl
 import time
 
 port = 465  # For SSL
-password = "yJw$YWPG5lmx0W"
+password = ""
 
 # Create a secure SSL context
 context = ssl.create_default_context()
