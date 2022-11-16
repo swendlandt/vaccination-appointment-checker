@@ -19,13 +19,13 @@ class bcolors:
 
 
 port = 465  # For SSL
-password = "yJw$YWPG5lmx0W"
+password = ""
 
 # Create a secure SSL context
 context = ssl.create_default_context()
 
-sender_email = "simonsthrowaway012@gmail.com"
-receiver_email = "simonwendlandt@gmail.com"
+sender_email = ""
+receiver_email = ""
 message = "Subject: Impftermine verfügbar!".encode("utf-8")
 
 headers = {
